@@ -1,6 +1,6 @@
 import {useState,useEffect} from 'react';
 
-const API_BASE = "http://localhost:3001";
+const API_BASE = "https://bewildered-fox-fez.cyclic.app";
 
 function App() {
 
